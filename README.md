@@ -7,6 +7,8 @@ In this repo, You can find solved tasks from course of Object Oriented Programmi
 ==> Tasks that are solved are from Manual for Object Oriented Programming written by prof.Mateljan and prof.Džerek
 ==> If You find better or more practical solutions for certain tasks, contact me on:
 ==> E-mail:  mjuric05@fesb.hr
+==> E-mail:  juricmijo96@gmail.com
+==> Feel free to contact me on any of these ;)
 ==> Content of E-mail: ==> Subject: Optimisation/Error Fix, Course: Object Oriented Programming
                        ==> Content: 1.) Source code
                                     2.) Explanation of fix/optimisation
